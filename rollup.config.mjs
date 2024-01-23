@@ -31,10 +31,12 @@ export default /** @type {Array<import('rollup').RollupOptions>} */ ([
   createConfig(4, 1),
   createConfig(5, 1),
   createConfig(6, 1),
+  createConfig(7, 1),
   createConfig(1, 6),
   createConfig(2, 6),
   createConfig(3, 6),
   createConfig(4, 6),
   createConfig(5, 6),
   createConfig(6, 6),
+  createConfig(7, 6),
 ]);
